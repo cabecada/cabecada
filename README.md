@@ -15,7 +15,7 @@ Accomplished System Architect with over 13 years of hands-on experience managing
 * Scalability Planning               (loose coupling, scatter gather in parallel to avoid cross node latency)
 * Automation                         (CI/CD pipelines)
 * Containerization                   (Docker, Mesos)
-* Configuration Management           (Puppet, Rex, Ansible)
+* Configuration Management           (Puppet, Rex, Ansible, TheForeman)
 * Databases                          (PostgreSQL, MongoDB)
 * Virtualisation                     (VMware vSphere)
 * FileSystems                        (ext4, zfs)
@@ -25,6 +25,7 @@ Accomplished System Architect with over 13 years of hands-on experience managing
 * Quick Learner                      (opensource support for postgresql, pocs, ask questions on slack channels)  
 
 ### PostgreSQL DBRE at Adjust
+#### May 2022 – Jan 2023
 
 Key Responsibilities and Achievements:
 - Provided expert support for PostgreSQL databases ranging from 10TB to 60TB in size, 100s in node scale, ensuring high availability and optimal performance on bare metal servers.
@@ -43,7 +44,7 @@ Key Responsibilities and Achievements:
 
 
 ### Infrastructure SRE at Opentable
-
+#### Jun 2016 – Nov 2019
 Key Responsibilities and Achievements:
 - Orchestrated the deployment and management of containerized applications using Apache Mesos and Docker, ensuring efficient resource utilization and scalability.
 - Leveraged Singularity as the orchestrator to automate the scheduling and execution of containerized workloads, optimizing resource allocation and workload distribution.
@@ -60,7 +61,8 @@ Key Responsibilities and Achievements:
 - Collaborated with development teams to integrate logging and metrics templates into applications, enabling developers to create standardized dashboards for monitoring and troubleshooting.
 - Provided mentorship and guidance to junior team members on best practices for system architecture, deployment automation, and monitoring strategies.
 
-## Infrastructure Engineer at Nomura
+### Infrastructure Engineer at Nomura
+#### Sep 2011 – May 2016
 Key Responsibilities and Achievements:
 
 - Developed a tool (frontend and backend API) to migrate multiple LDAP databases into one, creating a Virtual Interface for reading from multiple sources and writing to a single database.
@@ -74,7 +76,8 @@ Key Responsibilities and Achievements:
 - Implemented SSL for secure communication in web-based applications like GitLab and Pulp within the organization.
 - Actively participated in sysadmin activities including provisioning and building Operating Systems, Network Boot from consoles, KVM, Vagrant, vSphere, and Kerberos.
 
-## Senior Software Engineer at Bank of America
+### Senior Software Engineer at Bank of America
+#### Nov 2009 – Sep 2011
 Key Responsibilities and Achievements:
 
 - First hire in India to enable across the pond support for tick data systems.
@@ -85,7 +88,8 @@ Key Responsibilities and Achievements:
 - Implemented real-time validation for Vhayu and XMIM tick level data, enabling immediate alerting on level breaches or bad data.
 - Perl Moose framework for ETL automation reading data from xmim, Sybase, xml feeds on the internet.
 
-## Associate at Oracle Financial Services Software LTD
+### Associate at Oracle Financial Services Software LTD
+#### Sep 2007 – Nov 2009
 Key Responsibilities and Achievements:
 
 - follow the sun support and maintenance of scripts for tools like Risk Management tools like Imagine and other inhouse systems for risk projections.
