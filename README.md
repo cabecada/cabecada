@@ -2,6 +2,7 @@
   - vijaykumar.tater@gmail.com
   - 9769545966
   - Mumbai, Maharashtra, India
+  - https://gist.github.com/cabecada
 
 ## Executive Summary
 Accomplished System Architect with over 13 years of hands-on experience managing large-scale databases, including those of 10s of 60TB scale. Proficient in designing and implementing robust monitoring and logging solutions to ensure optimal performance and reliability. Demonstrated expertise in building highly scalable architectures capable of handling substantial data volumes while maintaining seamless operations. Solid experience in facilitating ease of migration, upgrades, and incident management processes, ensuring minimal disruption and downtime. Adept at generating insightful reports to provide stakeholders with comprehensive visibility into system health and performance metrics. Proven track record of optimizing database environments for maximum efficiency and resilience in dynamic business landscapes.
